@@ -7,5 +7,6 @@ def alphabetize(arr)
     word.split(' ').collect do |x|
       new.index(x)
     end
+    end
   end
 end
