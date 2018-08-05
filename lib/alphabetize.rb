@@ -1,4 +1,5 @@
 def alphabetize(arr)
   result = arr.sort_by do |letter|
-    letter.
+    letter.group.name 
+  end
 end
