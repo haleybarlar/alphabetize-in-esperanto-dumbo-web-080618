@@ -1,4 +1,3 @@
 def alphabetize(arr)
-  array.sort!
-  end
+  arr.sort!
 end
